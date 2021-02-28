@@ -1,0 +1,9 @@
+C:\Users\brian\source\repos\Windows10FPS_fix\bin\Release\Windows10FPS_fix.exe
+C:\Users\brian\source\repos\Windows10FPS_fix\bin\Release\Windows10FPS_fix.pdb
+C:\Users\brian\source\repos\Windows10FPS_fix\obj\Release\Windows10FPS_fix.Main.resources
+C:\Users\brian\source\repos\Windows10FPS_fix\obj\Release\Windows10FPS_fix.Properties.Resources.resources
+C:\Users\brian\source\repos\Windows10FPS_fix\obj\Release\Windows10FPS_fix.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\Windows10FPS_fix\obj\Release\Windows10FPS_fix.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\Windows10FPS_fix\obj\Release\Windows10FPS_fix.exe
+C:\Users\brian\source\repos\Windows10FPS_fix\obj\Release\Windows10FPS_fix.pdb
+C:\Users\brian\source\repos\Windows10FPS_fix\obj\Release\Windows10FPS_fix.csprojAssemblyReference.cache
