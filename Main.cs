@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Windows.Forms;
-using System.Net; // Used for WebClient
+using System.Net; // For WebClient
 using System.Diagnostics; // Process start to execute .reg
+using System.IO; // Removes .reg file when done
 
 namespace Windows10FPS_fix
 {
@@ -22,6 +23,7 @@ namespace Windows10FPS_fix
             process.StartInfo.Arguments = "/s DVR_Disable.reg";
             process.Start();
             MessageBox.Show("Completed! Please restart your computer.");
+            File.Delete(@"DVR_Disable.reg");
             Application.Exit();
         }
 
