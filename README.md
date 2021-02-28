@@ -6,4 +6,4 @@ Simple application for friends that remove the GameDVR function to increase FPS 
 
 ## Requirements
 
-[.NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472).
+[.NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472)
